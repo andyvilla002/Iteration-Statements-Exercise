@@ -1,0 +1,15 @@
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Release/net6.0/IterationStatements
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Release/net6.0/IterationStatements.deps.json
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Release/net6.0/IterationStatements.runtimeconfig.json
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Release/net6.0/IterationStatements.dll
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Release/net6.0/IterationStatements.pdb
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.dll
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/refint/IterationStatements.dll
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.pdb
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/IterationStatements.genruntimeconfig.cache
+/Users/andyvillalobos/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Release/net6.0/ref/IterationStatements.dll
